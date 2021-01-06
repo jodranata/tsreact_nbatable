@@ -70,7 +70,7 @@
     "@types/react-bootstrap-table-next": "^4.0.9",
     "@types/react-bootstrap-table2-paginator": "^2.1.1",
     "@types/react-dom": "^16.9.8",
-    "axios": "^0.20.0",
+    "axios": "^0.21.1",
     "bootstrap": "^4.5.3",
     "core-js": "^3.6.5",
     "react": "^16.13.1",
